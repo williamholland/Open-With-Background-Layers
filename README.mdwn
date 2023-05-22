@@ -1,0 +1,16 @@
+# Open With Background Layers
+
+This is a GIMP Script that opens a new image with two blank layers underneath (1 black and 1 white)
+
+## Install
+
+The installation process is straightforward. To install the plugin, please follow these steps:
+
+* Save the plugin `.scm` to your local drive.
+* Open GIMP and navigate to `Edit > Preferences > Folders > Scripts` to find the name of the folder your GIMP installation will look for scripts.
+* Using Windows Explorer copy the `.scm` file to GIMP’s Scripts folder.
+* Restart GIMP or go to `Filters > Script-Fu > Refresh Scripts` .
+* Once installed, the plugin will be available under the "Plugins" menu in GIMP.
+
+
+For help with GIMP scripts visit [fiverr.com/willholland](https://www.fiverr.com/willholland?up_rollout=true)
